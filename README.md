@@ -49,29 +49,29 @@ The system was built from scratch over the course of a full academic year (Septe
 <div align="center">
 
 ### Home
-<img src="docs/screenshots/home1.png" width="51%"/>
-<img src="docs/screenshots/home2.png" width="51%"/>
+<img src="docs/screenshots/home1.png" width="75%"/>
+<img src="docs/screenshots/home2.png" width="75%"/>
 
 ### About
-<img src="docs/screenshots/about.png" width="51%"/>
+<img src="docs/screenshots/about.png" width="75%"/>
 
 ### Login
-<img src="docs/screenshots/login.png" width="51%"/>
+<img src="docs/screenshots/login.png" width="75%"/>
 
 ### Sign up
-<img src="docs/screenshots/signup1.png" width="51%"/>
-<img src="docs/screenshots/signup2.png" width="51%"/>
+<img src="docs/screenshots/signup1.png" width="75%"/>
+<img src="docs/screenshots/signup2.png" width="75%"/>
 
 ### Search And Book Flights
-<img src="docs/screenshots/flights1.png" width="51%"/>
-<img src="docs/screenshots/flights2.png" width="51%"/>
+<img src="docs/screenshots/flights1.png" width="75%"/>
+<img src="docs/screenshots/flights2.png" width="75%"/>
 
 ### Bookings And Interactive Map
-<img src="docs/screenshots/bookings1.png" width="51%"/>
-<img src="docs/screenshots/bookings2.png" width="51%"/>
+<img src="docs/screenshots/bookings1.png" width="75%"/>
+<img src="docs/screenshots/bookings2.png" width="75%"/>
 
 ### Customer Support
-<img src="docs/screenshots/contact.png" width="51%"/>
+<img src="docs/screenshots/contact.png" width="75%"/>
 
 
 </div>
