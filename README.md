@@ -7,7 +7,7 @@
 
 **A full-stack desktop flight reservation system built with C# and Windows Forms**
 
-*11th Grade, 5-Unit Software Engineering Project — Cybersecurity & Operating Systems Track*
+*11th Grade, 5-Unit Software Engineering Project - Cybersecurity & Operating Systems Track*
 
 ---
 
